@@ -13,9 +13,9 @@ pscp IBM2072_DRIVE_20170901 superuser@storwize:/home/admin/upgrade
 IBM_Storwize:storwize:superuser>lsdrive 0
 id 0
 status online
-<output-omitted>
+...
 firmware_level B56U
-<output-omitted>
+...
 ```
 
 * Apply Drive Firmware
